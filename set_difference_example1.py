@@ -8,10 +8,10 @@ totalStudents = 100
 studentSport = 23
 studentSong = 28
 studentNone = 12
-student = None
+studentSportSong = None
 
 totalKnow = studentSport + studentSong + studentNone
 print(totalKnow)
 
-totalStudentLikeSportSong = totalStudents - totalKnow
-print(totalStudentLikeSportSong) # This is students like sport and music.
+studentSportSong = totalStudents - totalKnow
+print(studentSportSong) # This is students like sport and music.
