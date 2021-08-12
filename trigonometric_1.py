@@ -1,5 +1,6 @@
 import math
 # link : https://www.studytonight.com/post/trigonometric-function-in-python
+# link : https://www.mathsisfun.com/geometry/unit-circle.html
 
 print("Hello world")
 print(math.radians(90)) # from radians to degrees.
