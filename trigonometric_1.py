@@ -10,3 +10,11 @@ print(math.radians(90))
 print(math.radians(180))
 print(math.radians(270))
 print(math.radians(360))
+
+sine_30 = math.sin(math.radians(30)) 
+sine_45 = math.sin(math.radians(45))
+sine_60 = math.sin(math.radians(60))
+
+print ("The sine of 30 in degree = ",  sine_30)
+print ("The sine of 45 in degree = ",  sine_45)
+print ("The sine of 60 in degree = ",  sine_60)
